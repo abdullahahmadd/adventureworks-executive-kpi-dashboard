@@ -95,7 +95,7 @@ The dataset represents **transactional sales data combined with customer attribu
 
 | 1. Executive Sales Overview |
 |-----------------------------|
-| ![Executive Sales Overview](Results/Results/AdventureWorks_Executive_Summary_Dashboard.png) |
+| ![Executive Sales Overview](Results/AdventureWorks_Executive_Summary_Dashboard.png) |
 | One-page executive dashboard presenting KPIs, sales trends, forecasting, and interactive insights. |
 
 ---
