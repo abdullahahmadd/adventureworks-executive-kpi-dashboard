@@ -1,9 +1,9 @@
 # 📊 AdventureWorks Power BI Executive Sales Dashboard
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=powerbi-adventureworks-executive-sales-dashboard)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-![Business Intelligence](https://img.shields.io/badge/Focus-Business%20Intelligence-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-green)
 
 ---
 
