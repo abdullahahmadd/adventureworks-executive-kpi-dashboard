@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Power BI Executive Sales Dashboard
+# 📊 AdventureWorks Executive Sales Dashboard (Power BI)
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=powerbi-adventureworks-executive-sales-dashboard)
