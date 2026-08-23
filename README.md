@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Executive Sales Dashboard
+# 📊 AdventureWorks Executive KPI Dashboard
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=powerbi-adventureworks-executive-sales-dashboard)
@@ -22,7 +22,7 @@
 ---
 
 ## 🔍 Overview
-This project presents an **executive-level sales dashboard** built using Microsoft Power BI on the **AdventureWorks** dataset.  
+This project presents an **executive-level KPI dashboard** built using Microsoft Power BI on the **AdventureWorks** dataset.  
 The dashboard transforms raw sales and customer data into **clear KPIs, trends, forecasts, and insights** to support strategic business decision-making.
 
 ---
